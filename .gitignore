@@ -1,0 +1,9 @@
+#Cache files
+*cache*
+
+# VS Code Workspaces
+*code*
+
+# Virtual Environments
+*env*
+*conda*
